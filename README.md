@@ -1,4 +1,5 @@
 # vue2-g-cropper
+基于vue2、Element、vue-cropper的裁剪组件
 
 ## Project setup
 ```
